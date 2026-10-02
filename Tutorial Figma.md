@@ -40,4 +40,11 @@
 ---
 <br>
 
-## Protótipo Final
+## Protótipo Final - Página 1 (Home)
+<img width="505" height="873" alt="imagem" src="https://github.com/user-attachments/assets/897605e5-e606-4d81-9760-f30b59b3a764" />
+
+---
+<br>
+
+## Protótipo Final - Página 2 (Case Study)
+<img width="1440" height="3905" alt="Pagina 2" src="https://github.com/user-attachments/assets/b90a56a9-ff72-45dd-ab2c-2572a88af612" />
