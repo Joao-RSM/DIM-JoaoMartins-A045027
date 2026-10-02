@@ -30,3 +30,14 @@
 
 ## Sexto Tutorial
 <img width="1472" height="331" alt="imagem" src="https://github.com/user-attachments/assets/8f15c63a-6d08-49d6-a3d2-bfbf9e4dd620" />
+
+---
+<br>
+
+## Sétimo Tutorial
+<img width="1157" height="428" alt="imagem" src="https://github.com/user-attachments/assets/c77dfc47-f36a-4df1-8045-76574a4ca94b" />
+
+---
+<br>
+
+## Protótipo Final
