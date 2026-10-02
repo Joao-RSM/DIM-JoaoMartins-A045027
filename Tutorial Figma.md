@@ -41,7 +41,8 @@
 <br>
 
 ## Protótipo Final - Página 1 (Home)
-<img width="505" height="873" alt="imagem" src="https://github.com/user-attachments/assets/897605e5-e606-4d81-9760-f30b59b3a764" />
+<img width="1440" height="2443" alt="Pagina 1" src="https://github.com/user-attachments/assets/a5b91acd-fd8b-45d2-9f91-818e06f10bb0" />
+
 
 ---
 <br>
