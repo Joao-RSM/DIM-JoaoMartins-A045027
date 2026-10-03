@@ -3,11 +3,13 @@
 Neste trabalho decidi fazer a análise do componente de controlo de volume, no youtube, como demonstrado nas imagens abaixo:
 
 <div align="center">
+  
 ### Estados do Componente
 
 | Máximo | Meio | Sem Som |
 | :---: | :---: | :---: |
 | <img width="119" height="50" alt="Volume Máximo" src="https://github.com/user-attachments/assets/af323500-81d1-46e4-9f23-d9a5131c2ed0" /> | <img width="111" height="45" alt="Volume a Meio" src="https://github.com/user-attachments/assets/67788136-b72b-4b78-be81-8e1b6bcd9365" /> | <img width="111" height="45" alt="Sem Som" src="https://github.com/user-attachments/assets/8b4479c2-f0df-4753-a504-d9a312e9d7fc" /> |
+
 </div>
 
 <br>
