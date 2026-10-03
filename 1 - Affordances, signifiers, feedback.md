@@ -50,7 +50,7 @@ O feedback é imediato e dinâmico. Visualmente, à medida que se arrasta ou cli
 
 **O que acontece quando existe alguma falha?**
 
-Se houver um conflito de hardware (ex: dispositivo de áudio desconectado), o componente mantém-se mas não há reprodução de som.
+Se houver um conflito de hardware (ex: dispositivo de áudio desconectado), o componente mantém-se igual mas não há reprodução de som.
 
 ---
 
