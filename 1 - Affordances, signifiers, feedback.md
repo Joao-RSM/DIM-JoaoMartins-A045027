@@ -57,6 +57,6 @@ Se houver um conflito de hardware (ex: dispositivo de áudio desconectado), o co
 **Funciona sem visão ou sem rato?**
 
 Sim. 
-Sem visão, é possível através dos vários atalhos disponibilizados. Ao clicar `⬆` ouvimos o volume a aumentar, com `↓` o volume a diminuir e com `M` a dar mute/unmute no som.
+Sem rato, é possível selecionar a componente tecla `Tab` e operar através das setas `←` (diminuir) e `→` (aumentar), além disso, possui atalhos: pressionar a tecla `M` alterna imediatamente o estado do som (mute/unmute), e utilizar as setas Cima `↑` (aumentar) e Baixo `↓` (diminuir) ajusta o volume em incrementos de 5%.
 
-Sem rato, é possível selecionar a componente tecla `Tab` e operar através das setas `Esquerda` (diminuir) e `Direita` (aumentar), além disso, possui atalhos: pressionar a tecla `M` alterna imediatamente o estado do som (mute/unmute), e utilizar as setas Cima `⬆` (aumentar) e Baixo `↓` (diminuir) ajusta o volume em incrementos de 5%.
+Sem visão, é possível através dos vários atalhos disponibilizados. Ao clicar `↑` ouvimos o volume a aumentar, com `↓` o volume a diminuir e com `M` a dar mute/unmute no som.
