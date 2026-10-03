@@ -42,6 +42,7 @@
 
 ## Protótipo Final - Página 1 (Home)
 <img width="1440" height="2443" alt="Pagina 1" src="https://github.com/user-attachments/assets/a5b91acd-fd8b-45d2-9f91-818e06f10bb0" />
+<img width="230" height="346" alt="image" src="https://github.com/user-attachments/assets/9fa551e4-478e-475b-b1c4-12ae987d20a2" />
 
 
 ---
@@ -49,3 +50,5 @@
 
 ## Protótipo Final - Página 2 (Case Study)
 <img width="1440" height="3905" alt="Pagina 2" src="https://github.com/user-attachments/assets/b90a56a9-ff72-45dd-ab2c-2572a88af612" />
+<img width="230" height="522" alt="image" src="https://github.com/user-attachments/assets/d457d617-4294-40a1-bec9-d2844e7ecd61" />
+
