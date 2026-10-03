@@ -43,7 +43,7 @@ Sim. A forma de calha com um "puxador" sugere fortemente que a única forma de o
 
 **Que feedback devolve, e quando?**
 
-O feedback é imediato e dinâmico. Visualmente, à medida que se arrasta ou clica, o círculo move-se, a proporção da barra branca e cinzenta altera-se, e o ícone do altifalante atualiza os seus traços em tempo real. Auditivamente, o som em reprodução acompanha esta variação de forma síncrona.
+O feedback é imediato e dinâmico. Visualmente, à medida que se arrasta ou clica, o círculo move-se, a proporção da barra branca e cinzenta altera-se, e o ícone do altifalante atualiza em tempo real. Auditivamente, o som em reprodução acompanha esta variação de forma síncrona.
 
 ---
 
@@ -55,4 +55,4 @@ Se houver um conflito de hardware (ex: dispositivo de áudio desconectado), o co
 
 **Funciona sem visão ou sem rato?**
 
-Sim, assumindo boas práticas de código. Sem rato, é focado com a tecla `Tab` e operado através das setas `Esquerda` e `Direita`. Sem visão, os leitores de ecrã identificam-no semanticamente e ditam os valores numéricos à medida que são ajustados pelo utilizador.
+Sim, assumindo boas práticas de código. Sem rato, é focado com a tecla `Tab` e operado através das setas `Esquerda` e `Direita`. Sem visão, os leitores de ecrã identificam-no semanticamente e ditam os valores numéricos à medida que são ajustados pelo utilizador. Além disso, possui atalhos: pressionar a tecla M alterna imediatamente o estado do som (mute/unmute), e utilizar as setas Cima e Baixo ajusta o volume diretamente em incrementos de 5%
