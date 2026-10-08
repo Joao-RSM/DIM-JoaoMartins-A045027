@@ -1,15 +1,15 @@
-# Portefólio Digital - Prototipagem em Figma
+# Prototipagem em Figma
 
 Documentação do progresso prático na construção de interfaces, utilização de componentes e aplicação de layout automático no Figma.
 
 ---
 
 ## 1. Tutorial Figma
-Registo passo a passo dos exercícios de aprendizagem e construção do protótipo base proposto no tutorial.
+Registo passo a passo da construção do protótipo proposto no tutorial.
 
 <blockquote>
 <details>
-<summary><b>Ver progresso e capturas de ecrã (Clica para abrir/fechar)</b></summary>
+<summary><b>Ver progresso e capturas de ecrã (Clicar para abrir/fechar)</b></summary>
 <br>
 
 ### Primeiro Tutorial
@@ -81,10 +81,9 @@ Desenvolvimento do protótipo do site pessoal aplicando as técnicas de componen
 
 <blockquote>
 <details>
-<summary><b>Ver protótipo do site pessoal (Clica para abrir/fechar)</b></summary>
+<summary><b>Ver protótipo do site pessoal (Clicar para abrir/fechar)</b></summary>
 <br>
 
-<!-- Cola aqui as imagens do teu site pessoal quando as tiveres -->
 
 </details>
 </blockquote>
