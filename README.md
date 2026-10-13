@@ -6,3 +6,8 @@ Portfolio de Desenvolvimento de Interfaces Multimédia
 **Aluno:** João Martins
 
 **Nº:** A045027
+
+## Trabalhos
+Exercício 1 (site 'personal portfolio') - https://github.com/Joao-RSM/DIM-JoaoMartins-A045027/blob/main/Tutorial%20Figma.md
+
+1 - Affordances, signifiers, feedback - 
