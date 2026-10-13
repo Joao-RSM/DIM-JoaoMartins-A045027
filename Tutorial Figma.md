@@ -7,6 +7,7 @@ Documentação do progresso prático na construção de interfaces, utilização
 ## 1. Tutorial Figma
 Registo passo a passo da construção do protótipo proposto no tutorial.
 
+(https://www.figma.com/design/7ErE2T1JnlgAaX3saKzL2N/DIM?node-id=0-1&t=YzjQSP8OEyG7noSG-1)
 <blockquote>
 <details>
 <summary><b>Ver progresso e capturas de ecrã (Clicar para abrir/fechar)</b></summary>
@@ -79,6 +80,7 @@ Registo passo a passo da construção do protótipo proposto no tutorial.
 ## 2. Portfolio Pessoal
 Desenvolvimento do protótipo do site pessoal aplicando as técnicas de componentes e layout automático.
 
+(https://www.figma.com/design/7ErE2T1JnlgAaX3saKzL2N/DIM?node-id=27-340&t=YzjQSP8OEyG7noSG-1)
 <blockquote>
 <details>
 <summary><b>Ver protótipo do site pessoal (Clicar para abrir/fechar)</b></summary>
