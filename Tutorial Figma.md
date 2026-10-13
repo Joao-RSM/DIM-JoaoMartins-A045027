@@ -76,7 +76,7 @@ Registo passo a passo da construção do protótipo proposto no tutorial.
 
 ---
 
-## 2. Personal Portfolio
+## 2. Portfolio Pessoal
 Desenvolvimento do protótipo do site pessoal aplicando as técnicas de componentes e layout automático.
 
 <blockquote>
