@@ -8,6 +8,7 @@ Portfolio de Desenvolvimento de Interfaces Multimédia
 **Nº:** A045027
 
 ## Trabalhos
-Exercício 1 (site 'personal portfolio') - https://github.com/Joao-RSM/DIM-JoaoMartins-A045027/blob/main/Tutorial%20Figma.md
+**1 - Affordances, signifiers, feedback** - https://github.com/Joao-RSM/DIM-JoaoMartins-A045027/blob/main/1%20-%20Affordances%2C%20signifiers%2C%20feedback.md
 
-1 - Affordances, signifiers, feedback - 
+**Exercício 1 (site 'personal portfolio')** - https://github.com/Joao-RSM/DIM-JoaoMartins-A045027/blob/main/Tutorial%20Figma.md
+
