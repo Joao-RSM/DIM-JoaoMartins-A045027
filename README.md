@@ -14,3 +14,4 @@ Portfolio de Desenvolvimento de Interfaces Multimédia
 
 **Exercício 1 (site 'personal portfolio')** - https://github.com/Joao-RSM/DIM-JoaoMartins-A045027/blob/main/Tutorial%20Figma.md
 
+**2 - UIs frustrantes** - https://github.com/Joao-RSM/DIM-JoaoMartins-A045027/blob/main/2%20-%20UIs%20frustrantes.md
