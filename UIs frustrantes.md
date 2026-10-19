@@ -1,5 +1,4 @@
 # UIs Frustrantes - Seleção de Lugares na Ryanair
-<br>
 
 Neste trabalho decidi fazer a análise da interface de seleção de lugares na aplicação da Ryanair. 
 
