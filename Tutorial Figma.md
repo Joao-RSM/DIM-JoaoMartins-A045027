@@ -89,6 +89,8 @@ Desenvolvimento do protótipo do site pessoal aplicando as técnicas de componen
 ### Página Inicial Portfolio
 <img width="1440" height="2965" alt="João - Portefólio" src="https://github.com/user-attachments/assets/f7a432b1-f54b-4fb6-8d0b-077d20c4b05e" />
 
+<img width="1440" height="2965" alt="João - Projeto (2)" src="https://github.com/user-attachments/assets/af941cfe-4ce2-4028-8ac2-b790048d8b29" />
+
 ---
 </details>
 </blockquote>
