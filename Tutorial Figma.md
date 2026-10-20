@@ -7,7 +7,7 @@ Documentação do progresso prático na construção de interfaces, utilização
 ## 1. Tutorial Figma
 Registo passo a passo da construção do protótipo proposto no tutorial.
 
-(https://www.figma.com/design/7ErE2T1JnlgAaX3saKzL2N/DIM?node-id=0-1&t=YzjQSP8OEyG7noSG-1)
+**[Aceder ao protótipo no Figma](https://www.figma.com/design/7ErE2T1JnlgAaX3saKzL2N/DIM?node-id=0-1&t=YzjQSP8OEyG7noSG-1)**
 <blockquote>
 <details>
 <summary><b>Ver progresso e capturas de ecrã (Clicar para abrir/fechar)</b></summary>
@@ -80,7 +80,7 @@ Registo passo a passo da construção do protótipo proposto no tutorial.
 ## 2. Portfolio Pessoal
 Desenvolvimento do protótipo do site pessoal aplicando as técnicas de componentes e layout automático.
 
-(https://www.figma.com/design/7ErE2T1JnlgAaX3saKzL2N/DIM?node-id=27-340&t=YzjQSP8OEyG7noSG-1)
+**[Aceder ao protótipo no Figma](https://www.figma.com/design/7ErE2T1JnlgAaX3saKzL2N/DIM?node-id=27-340&t=YzjQSP8OEyG7noSG-1)**
 <blockquote>
 <details>
 <summary><b>Ver protótipo do site pessoal (Clicar para abrir/fechar)</b></summary>
@@ -104,13 +104,19 @@ Desenvolvimento do protótipo do site pessoal aplicando as técnicas de componen
 ---
 <br>
 
-### Página Inicial Portfolio
-<img width="100%" alt="João - Portefólio" src="https://github.com/user-attachments/assets/f7a432b1-f54b-4fb6-8d0b-077d20c4b05e" />
+### Tópicos
+<img width="965" height="453" alt="image" src="https://github.com/user-attachments/assets/dc2bb7b2-dac5-4887-b166-7acf8f13e6c7" />
 
 ---
 <br>
 
-### Página Projeto Portefolio
+### Protótipo Final Portfolio - Página 1 (Home)
+<img width="100%" alt="João - Portfólio" src="https://github.com/user-attachments/assets/f7a432b1-f54b-4fb6-8d0b-077d20c4b05e" />
+
+---
+<br>
+
+### Protótipo Final Portfolio - Página 2 (Projeto)
 <img width="100%" alt="João - Projeto" src="https://github.com/user-attachments/assets/66fc6fdc-57e2-4c9a-89c9-9bdfa6c6eb92" />
 
 ---
