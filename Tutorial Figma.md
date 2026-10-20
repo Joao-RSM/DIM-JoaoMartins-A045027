@@ -86,10 +86,32 @@ Desenvolvimento do protótipo do site pessoal aplicando as técnicas de componen
 <summary><b>Ver protótipo do site pessoal (Clicar para abrir/fechar)</b></summary>
 <br>
 
-### Página Inicial Portfolio
-<img width="1440" height="2965" alt="João - Portefólio" src="https://github.com/user-attachments/assets/f7a432b1-f54b-4fb6-8d0b-077d20c4b05e" />
+### Footer e Header
+<img width="1351" height="554" alt="image" src="https://github.com/user-attachments/assets/4e241cc0-6341-448e-8625-2eb7c321cc26" />
 
-<img width="1440" height="2965" alt="João - Projeto (2)" src="https://github.com/user-attachments/assets/af941cfe-4ce2-4028-8ac2-b790048d8b29" />
+---
+<br>
+
+### Apresentação
+<img width="1260" height="307" alt="image" src="https://github.com/user-attachments/assets/4f446cb1-4819-4a12-9772-c6d49088a479" />
+
+---
+<br>
+
+### Projetos, competências e contacto
+<img width="922" height="763" alt="image" src="https://github.com/user-attachments/assets/5912042c-ad3c-41d9-a7ce-71edd849fc2a" />
+
+---
+<br>
+
+### Página Inicial Portfolio
+<img width="100%" alt="João - Portefólio" src="https://github.com/user-attachments/assets/f7a432b1-f54b-4fb6-8d0b-077d20c4b05e" />
+
+---
+<br>
+
+### Página Projeto Portefolio
+<img width="100%" alt="João - Projeto" src="https://github.com/user-attachments/assets/66fc6fdc-57e2-4c9a-89c9-9bdfa6c6eb92" />
 
 ---
 </details>
