@@ -122,7 +122,8 @@ Desenvolvimento do protótipo do site pessoal aplicando as técnicas de componen
 <br>
 
 ### Protótipo Final Portfolio - Página 2 (Projeto)
-<img width="100%" alt="João - Projeto" src="https://github.com/user-attachments/assets/66fc6fdc-57e2-4c9a-89c9-9bdfa6c6eb92" />
+<img width="100%" alt="João - Projeto" src="https://github.com/user-attachments/assets/56d7a2c9-d213-4400-a7ba-7ac8da443eab" />
+
 
 ---
 </details>
