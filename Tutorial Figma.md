@@ -110,8 +110,13 @@ Desenvolvimento do protótipo do site pessoal aplicando as técnicas de componen
 ---
 <br>
 
+### Protótipo Final - Modificação do layout automático
+<img width="242" height="770" alt="image" src="https://github.com/user-attachments/assets/a1daa6fd-72bc-4a04-84a3-412c84441dc5" />
+
+
 ### Protótipo Final Portfolio - Página 1 (Home)
-<img width="100%" alt="João - Portfólio" src="https://github.com/user-attachments/assets/f7a432b1-f54b-4fb6-8d0b-077d20c4b05e" />
+<img width="100%" alt="João - Portfólio" src="https://github.com/user-attachments/assets/6028fccb-75f9-4da5-b0ef-2d276c2f7949" />
+
 
 ---
 <br>
